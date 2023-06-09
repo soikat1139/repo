@@ -1,0 +1,17 @@
+{
+  "name": "puppyteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bing-chat": "^0.2.3",
+    "chatgpt": "^5.2.5",
+    "puppeteer": "^20.5.0"
+  }
+}
